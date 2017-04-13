@@ -1,0 +1,419 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<weatherdata>
+  <location>
+    <name>Kazan</name>
+    <type></type>
+    <country>RU</country>
+    <timezone></timezone>
+    <location altitude="0" latitude="55.7887" longitude="49.1221" geobase="geonames" geobaseid="551487"></location>
+  </location>
+  <credit></credit>
+  <meta>
+    <lastupdate></lastupdate>
+    <calctime>0.1728</calctime>
+    <nextupdate></nextupdate>
+  </meta>
+  <sun rise="2017-04-13T01:41:43" set="2017-04-13T15:47:15"></sun>
+  <forecast>
+    <time from="2017-04-13T18:00:00" to="2017-04-13T21:00:00">
+      <symbol number="803" name="broken clouds" var="04n"></symbol>
+      <precipitation></precipitation>
+      <windDirection deg="197.504" code="SSW" name="South-southwest"></windDirection>
+      <windSpeed mps="5.15" name="Gentle Breeze"></windSpeed>
+      <temperature unit="celsius" value="2.88" min="1.48" max="2.88"></temperature>
+      <pressure unit="hPa" value="1007"></pressure>
+      <humidity value="88" unit="%"></humidity>
+      <clouds value="broken clouds" all="68" unit="%"></clouds>
+    </time>
+    <time from="2017-04-13T21:00:00" to="2017-04-14T00:00:00">
+      <symbol number="500" name="light rain" var="10n"></symbol>
+      <precipitation unit="3h" value="0.0025" type="rain"></precipitation>
+      <windDirection deg="193.518" code="SSW" name="South-southwest"></windDirection>
+      <windSpeed mps="5.43" name=""></windSpeed>
+      <temperature unit="celsius" value="2.49" min="1.56" max="2.49"></temperature>
+      <pressure unit="hPa" value="1005.91"></pressure>
+      <humidity value="89" unit="%"></humidity>
+      <clouds value="broken clouds" all="80" unit="%"></clouds>
+    </time>
+    <time from="2017-04-14T00:00:00" to="2017-04-14T03:00:00">
+      <symbol number="500" name="light rain" var="10d"></symbol>
+      <precipitation unit="3h" value="0.03" type="rain"></precipitation>
+      <windDirection deg="189.007" code="S" name="South"></windDirection>
+      <windSpeed mps="5.52" name="Moderate breeze"></windSpeed>
+      <temperature unit="celsius" value="2.1" min="1.64" max="2.1"></temperature>
+      <pressure unit="hPa" value="1004.41"></pressure>
+      <humidity value="89" unit="%"></humidity>
+      <clouds value="broken clouds" all="68" unit="%"></clouds>
+    </time>
+    <time from="2017-04-14T03:00:00" to="2017-04-14T06:00:00">
+      <symbol number="500" name="light rain" var="10d"></symbol>
+      <precipitation unit="3h" value="0.055" type="rain"></precipitation>
+      <windDirection deg="186.011" code="S" name="South"></windDirection>
+      <windSpeed mps="5.58" name="Moderate breeze"></windSpeed>
+      <temperature unit="celsius" value="2.73" min="2.73" max="2.73"></temperature>
+      <pressure unit="hPa" value="1003"></pressure>
+      <humidity value="90" unit="%"></humidity>
+      <clouds value="broken clouds" all="80" unit="%"></clouds>
+    </time>
+    <time from="2017-04-14T06:00:00" to="2017-04-14T09:00:00">
+      <symbol number="500" name="light rain" var="10d"></symbol>
+      <precipitation unit="3h" value="0.435" type="rain"></precipitation>
+      <windDirection deg="189.005" code="S" name="South"></windDirection>
+      <windSpeed mps="5.52" name="Moderate breeze"></windSpeed>
+      <temperature unit="celsius" value="4.22" min="4.22" max="4.22"></temperature>
+      <pressure unit="hPa" value="1001.71"></pressure>
+      <humidity value="95" unit="%"></humidity>
+      <clouds value="overcast clouds" all="92" unit="%"></clouds>
+    </time>
+    <time from="2017-04-14T09:00:00" to="2017-04-14T12:00:00">
+      <symbol number="500" name="light rain" var="10d"></symbol>
+      <precipitation unit="3h" value="0.385" type="rain"></precipitation>
+      <windDirection deg="176.002" code="S" name="South"></windDirection>
+      <windSpeed mps="4.81" name="Gentle Breeze"></windSpeed>
+      <temperature unit="celsius" value="6.42" min="6.42" max="6.42"></temperature>
+      <pressure unit="hPa" value="999.93"></pressure>
+      <humidity value="98" unit="%"></humidity>
+      <clouds value="overcast clouds" all="92" unit="%"></clouds>
+    </time>
+    <time from="2017-04-14T12:00:00" to="2017-04-14T15:00:00">
+      <symbol number="501" name="moderate rain" var="10d"></symbol>
+      <precipitation unit="3h" value="3.355" type="rain"></precipitation>
+      <windDirection deg="150.5" code="SSE" name="South-southeast"></windDirection>
+      <windSpeed mps="1.66" name="Light breeze"></windSpeed>
+      <temperature unit="celsius" value="4.8" min="4.8" max="4.8"></temperature>
+      <pressure unit="hPa" value="997.53"></pressure>
+      <humidity value="96" unit="%"></humidity>
+      <clouds value="overcast clouds" all="88" unit="%"></clouds>
+    </time>
+    <time from="2017-04-14T15:00:00" to="2017-04-14T18:00:00">
+      <symbol number="500" name="light rain" var="10n"></symbol>
+      <precipitation unit="3h" value="0.045" type="rain"></precipitation>
+      <windDirection deg="125.5" code="SE" name="SouthEast"></windDirection>
+      <windSpeed mps="2.46" name="Light breeze"></windSpeed>
+      <temperature unit="celsius" value="2.15" min="2.15" max="2.15"></temperature>
+      <pressure unit="hPa" value="995.06"></pressure>
+      <humidity value="87" unit="%"></humidity>
+      <clouds value="broken clouds" all="76" unit="%"></clouds>
+    </time>
+    <time from="2017-04-14T18:00:00" to="2017-04-14T21:00:00">
+      <symbol number="803" name="broken clouds" var="04n"></symbol>
+      <precipitation></precipitation>
+      <windDirection deg="166.001" code="SSE" name="South-southeast"></windDirection>
+      <windSpeed mps="6.08" name="Moderate breeze"></windSpeed>
+      <temperature unit="celsius" value="2.92" min="2.92" max="2.92"></temperature>
+      <pressure unit="hPa" value="991.95"></pressure>
+      <humidity value="90" unit="%"></humidity>
+      <clouds value="broken clouds" all="68" unit="%"></clouds>
+    </time>
+    <time from="2017-04-14T21:00:00" to="2017-04-15T00:00:00">
+      <symbol number="803" name="broken clouds" var="04n"></symbol>
+      <precipitation></precipitation>
+      <windDirection deg="167.5" code="SSE" name="South-southeast"></windDirection>
+      <windSpeed mps="5.71" name="Moderate breeze"></windSpeed>
+      <temperature unit="celsius" value="3.16" min="3.16" max="3.16"></temperature>
+      <pressure unit="hPa" value="989.1"></pressure>
+      <humidity value="93" unit="%"></humidity>
+      <clouds value="broken clouds" all="56" unit="%"></clouds>
+    </time>
+    <time from="2017-04-15T00:00:00" to="2017-04-15T03:00:00">
+      <symbol number="500" name="light rain" var="10d"></symbol>
+      <precipitation unit="3h" value="0.625" type="rain"></precipitation>
+      <windDirection deg="172" code="S" name="South"></windDirection>
+      <windSpeed mps="4.71" name="Gentle Breeze"></windSpeed>
+      <temperature unit="celsius" value="2.75" min="2.75" max="2.75"></temperature>
+      <pressure unit="hPa" value="986.64"></pressure>
+      <humidity value="95" unit="%"></humidity>
+      <clouds value="overcast clouds" all="92" unit="%"></clouds>
+    </time>
+    <time from="2017-04-15T03:00:00" to="2017-04-15T06:00:00">
+      <symbol number="500" name="light rain" var="10d"></symbol>
+      <precipitation unit="3h" value="0.36" type="rain"></precipitation>
+      <windDirection deg="292.502" code="WNW" name="West-northwest"></windDirection>
+      <windSpeed mps="8.17" name="Fresh Breeze"></windSpeed>
+      <temperature unit="celsius" value="3.8" min="3.8" max="3.8"></temperature>
+      <pressure unit="hPa" value="987.51"></pressure>
+      <humidity value="100" unit="%"></humidity>
+      <clouds value="overcast clouds" all="88" unit="%"></clouds>
+    </time>
+    <time from="2017-04-15T06:00:00" to="2017-04-15T09:00:00">
+      <symbol number="500" name="light rain" var="10d"></symbol>
+      <precipitation unit="3h" value="0.074999999999999" type="rain"></precipitation>
+      <windDirection deg="292.004" code="WNW" name="West-northwest"></windDirection>
+      <windSpeed mps="8.68" name="Fresh Breeze"></windSpeed>
+      <temperature unit="celsius" value="2.44" min="2.44" max="2.44"></temperature>
+      <pressure unit="hPa" value="989.85"></pressure>
+      <humidity value="98" unit="%"></humidity>
+      <clouds value="broken clouds" all="56" unit="%"></clouds>
+    </time>
+    <time from="2017-04-15T09:00:00" to="2017-04-15T12:00:00">
+      <symbol number="600" name="light snow" var="13d"></symbol>
+      <precipitation unit="3h" value="0.521" type="snow"></precipitation>
+      <windDirection deg="281.502" code="WNW" name="West-northwest"></windDirection>
+      <windSpeed mps="7.97" name=""></windSpeed>
+      <temperature unit="celsius" value="1.3" min="1.3" max="1.3"></temperature>
+      <pressure unit="hPa" value="991.84"></pressure>
+      <humidity value="92" unit="%"></humidity>
+      <clouds value="broken clouds" all="80" unit="%"></clouds>
+    </time>
+    <time from="2017-04-15T12:00:00" to="2017-04-15T15:00:00">
+      <symbol number="800" name="clear sky" var="01d"></symbol>
+      <precipitation unit="3h" value="0.013" type="snow"></precipitation>
+      <windDirection deg="279.501" code="W" name="West"></windDirection>
+      <windSpeed mps="8.17" name="Fresh Breeze"></windSpeed>
+      <temperature unit="celsius" value="0.75" min="0.75" max="0.75"></temperature>
+      <pressure unit="hPa" value="993.4"></pressure>
+      <humidity value="86" unit="%"></humidity>
+      <clouds value="broken clouds" all="56" unit="%"></clouds>
+    </time>
+    <time from="2017-04-15T15:00:00" to="2017-04-15T18:00:00">
+      <symbol number="800" name="clear sky" var="01n"></symbol>
+      <precipitation unit="3h" value="0.01" type="snow"></precipitation>
+      <windDirection deg="278.002" code="W" name="West"></windDirection>
+      <windSpeed mps="7.81" name="Moderate breeze"></windSpeed>
+      <temperature unit="celsius" value="-0.82" min="-0.82" max="-0.82"></temperature>
+      <pressure unit="hPa" value="995.54"></pressure>
+      <humidity value="86" unit="%"></humidity>
+      <clouds value="scattered clouds" all="44" unit="%"></clouds>
+    </time>
+    <time from="2017-04-15T18:00:00" to="2017-04-15T21:00:00">
+      <symbol number="800" name="clear sky" var="01n"></symbol>
+      <precipitation></precipitation>
+      <windDirection deg="275.506" code="W" name="West"></windDirection>
+      <windSpeed mps="7.07" name="Moderate breeze"></windSpeed>
+      <temperature unit="celsius" value="-2.44" min="-2.44" max="-2.44"></temperature>
+      <pressure unit="hPa" value="997.06"></pressure>
+      <humidity value="84" unit="%"></humidity>
+      <clouds value="clear sky" all="0" unit="%"></clouds>
+    </time>
+    <time from="2017-04-15T21:00:00" to="2017-04-16T00:00:00">
+      <symbol number="800" name="clear sky" var="01n"></symbol>
+      <precipitation></precipitation>
+      <windDirection deg="265.512" code="W" name="West"></windDirection>
+      <windSpeed mps="5.71" name="Moderate breeze"></windSpeed>
+      <temperature unit="celsius" value="-3.35" min="-3.35" max="-3.35"></temperature>
+      <pressure unit="hPa" value="998.13"></pressure>
+      <humidity value="84" unit="%"></humidity>
+      <clouds value="clear sky" all="0" unit="%"></clouds>
+    </time>
+    <time from="2017-04-16T00:00:00" to="2017-04-16T03:00:00">
+      <symbol number="800" name="clear sky" var="01d"></symbol>
+      <precipitation unit="3h" value="0.002" type="snow"></precipitation>
+      <windDirection deg="255.5" code="WSW" name="West-southwest"></windDirection>
+      <windSpeed mps="4.67" name="Gentle Breeze"></windSpeed>
+      <temperature unit="celsius" value="-3.26" min="-3.26" max="-3.26"></temperature>
+      <pressure unit="hPa" value="998.98"></pressure>
+      <humidity value="86" unit="%"></humidity>
+      <clouds value="few clouds" all="20" unit="%"></clouds>
+    </time>
+    <time from="2017-04-16T03:00:00" to="2017-04-16T06:00:00">
+      <symbol number="600" name="light snow" var="13d"></symbol>
+      <precipitation unit="3h" value="0.038" type="snow"></precipitation>
+      <windDirection deg="266" code="W" name="West"></windDirection>
+      <windSpeed mps="6.26" name="Moderate breeze"></windSpeed>
+      <temperature unit="celsius" value="-0.43" min="-0.43" max="-0.43"></temperature>
+      <pressure unit="hPa" value="999.87"></pressure>
+      <humidity value="94" unit="%"></humidity>
+      <clouds value="broken clouds" all="64" unit="%"></clouds>
+    </time>
+    <time from="2017-04-16T06:00:00" to="2017-04-16T09:00:00">
+      <symbol number="801" name="few clouds" var="02d"></symbol>
+      <precipitation></precipitation>
+      <windDirection deg="267.003" code="W" name="West"></windDirection>
+      <windSpeed mps="8.73" name="Fresh Breeze"></windSpeed>
+      <temperature unit="celsius" value="1.44" min="1.44" max="1.44"></temperature>
+      <pressure unit="hPa" value="1001.09"></pressure>
+      <humidity value="94" unit="%"></humidity>
+      <clouds value="few clouds" all="12" unit="%"></clouds>
+    </time>
+    <time from="2017-04-16T09:00:00" to="2017-04-16T12:00:00">
+      <symbol number="800" name="clear sky" var="02d"></symbol>
+      <precipitation></precipitation>
+      <windDirection deg="268.501" code="W" name="West"></windDirection>
+      <windSpeed mps="8.87" name="Fresh Breeze"></windSpeed>
+      <temperature unit="celsius" value="2.09" min="2.09" max="2.09"></temperature>
+      <pressure unit="hPa" value="1002.56"></pressure>
+      <humidity value="88" unit="%"></humidity>
+      <clouds value="clear sky" all="8" unit="%"></clouds>
+    </time>
+    <time from="2017-04-16T12:00:00" to="2017-04-16T15:00:00">
+      <symbol number="802" name="scattered clouds" var="03d"></symbol>
+      <precipitation></precipitation>
+      <windDirection deg="268.002" code="W" name="West"></windDirection>
+      <windSpeed mps="4.76" name="Gentle Breeze"></windSpeed>
+      <temperature unit="celsius" value="1.12" min="1.12" max="1.12"></temperature>
+      <pressure unit="hPa" value="1003.23"></pressure>
+      <humidity value="85" unit="%"></humidity>
+      <clouds value="scattered clouds" all="32" unit="%"></clouds>
+    </time>
+    <time from="2017-04-16T15:00:00" to="2017-04-16T18:00:00">
+      <symbol number="600" name="light snow" var="13n"></symbol>
+      <precipitation unit="3h" value="1.1875" type="snow"></precipitation>
+      <windDirection deg="135.002" code="SE" name="SouthEast"></windDirection>
+      <windSpeed mps="1.26" name="Calm"></windSpeed>
+      <temperature unit="celsius" value="-1.53" min="-1.53" max="-1.53"></temperature>
+      <pressure unit="hPa" value="1002.83"></pressure>
+      <humidity value="91" unit="%"></humidity>
+      <clouds value="overcast clouds" all="92" unit="%"></clouds>
+    </time>
+    <time from="2017-04-16T18:00:00" to="2017-04-16T21:00:00">
+      <symbol number="601" name="snow" var="13n"></symbol>
+      <precipitation unit="3h" value="3.4975" type="snow"></precipitation>
+      <windDirection deg="95.0003" code="E" name="East"></windDirection>
+      <windSpeed mps="2.62" name="Light breeze"></windSpeed>
+      <temperature unit="celsius" value="-1.38" min="-1.38" max="-1.38"></temperature>
+      <pressure unit="hPa" value="1001.54"></pressure>
+      <humidity value="98" unit="%"></humidity>
+      <clouds value="overcast clouds" all="92" unit="%"></clouds>
+    </time>
+    <time from="2017-04-16T21:00:00" to="2017-04-17T00:00:00">
+      <symbol number="601" name="snow" var="13n"></symbol>
+      <precipitation unit="3h" value="1.7025" type="snow"></precipitation>
+      <windDirection deg="34.5005" code="NE" name="NorthEast"></windDirection>
+      <windSpeed mps="2.31" name="Light breeze"></windSpeed>
+      <temperature unit="celsius" value="-1.01" min="-1.01" max="-1.01"></temperature>
+      <pressure unit="hPa" value="1002.24"></pressure>
+      <humidity value="96" unit="%"></humidity>
+      <clouds value="overcast clouds" all="92" unit="%"></clouds>
+    </time>
+    <time from="2017-04-17T00:00:00" to="2017-04-17T03:00:00">
+      <symbol number="600" name="light snow" var="13d"></symbol>
+      <precipitation unit="3h" value="0.9075" type="snow"></precipitation>
+      <windDirection deg="1.00089" code="N" name="North"></windDirection>
+      <windSpeed mps="2.52" name="Light breeze"></windSpeed>
+      <temperature unit="celsius" value="-0.89" min="-0.89" max="-0.89"></temperature>
+      <pressure unit="hPa" value="1004.62"></pressure>
+      <humidity value="95" unit="%"></humidity>
+      <clouds value="broken clouds" all="64" unit="%"></clouds>
+    </time>
+    <time from="2017-04-17T03:00:00" to="2017-04-17T06:00:00">
+      <symbol number="803" name="broken clouds" var="04d"></symbol>
+      <precipitation></precipitation>
+      <windDirection deg="312.004" code="NW" name="Northwest"></windDirection>
+      <windSpeed mps="2.31" name="Light breeze"></windSpeed>
+      <temperature unit="celsius" value="1.2" min="1.2" max="1.2"></temperature>
+      <pressure unit="hPa" value="1007.3"></pressure>
+      <humidity value="97" unit="%"></humidity>
+      <clouds value="broken clouds" all="68" unit="%"></clouds>
+    </time>
+    <time from="2017-04-17T06:00:00" to="2017-04-17T09:00:00">
+      <symbol number="802" name="scattered clouds" var="03d"></symbol>
+      <precipitation></precipitation>
+      <windDirection deg="270.502" code="W" name="West"></windDirection>
+      <windSpeed mps="2.76" name="Light breeze"></windSpeed>
+      <temperature unit="celsius" value="3.05" min="3.05" max="3.05"></temperature>
+      <pressure unit="hPa" value="1008.78"></pressure>
+      <humidity value="97" unit="%"></humidity>
+      <clouds value="scattered clouds" all="32" unit="%"></clouds>
+    </time>
+    <time from="2017-04-17T09:00:00" to="2017-04-17T12:00:00">
+      <symbol number="801" name="few clouds" var="02d"></symbol>
+      <precipitation></precipitation>
+      <windDirection deg="265.002" code="W" name="West"></windDirection>
+      <windSpeed mps="4.47" name="Gentle Breeze"></windSpeed>
+      <temperature unit="celsius" value="3.55" min="3.55" max="3.55"></temperature>
+      <pressure unit="hPa" value="1009.96"></pressure>
+      <humidity value="90" unit="%"></humidity>
+      <clouds value="few clouds" all="12" unit="%"></clouds>
+    </time>
+    <time from="2017-04-17T12:00:00" to="2017-04-17T15:00:00">
+      <symbol number="801" name="few clouds" var="02d"></symbol>
+      <precipitation></precipitation>
+      <windDirection deg="268.5" code="W" name="West"></windDirection>
+      <windSpeed mps="4.56" name="Gentle Breeze"></windSpeed>
+      <temperature unit="celsius" value="1.56" min="1.56" max="1.56"></temperature>
+      <pressure unit="hPa" value="1011.55"></pressure>
+      <humidity value="87" unit="%"></humidity>
+      <clouds value="few clouds" all="24" unit="%"></clouds>
+    </time>
+    <time from="2017-04-17T15:00:00" to="2017-04-17T18:00:00">
+      <symbol number="800" name="clear sky" var="01n"></symbol>
+      <precipitation></precipitation>
+      <windDirection deg="283.501" code="WNW" name="West-northwest"></windDirection>
+      <windSpeed mps="3.67" name="Gentle Breeze"></windSpeed>
+      <temperature unit="celsius" value="-2.26" min="-2.26" max="-2.26"></temperature>
+      <pressure unit="hPa" value="1013.31"></pressure>
+      <humidity value="85" unit="%"></humidity>
+      <clouds value="clear sky" all="0" unit="%"></clouds>
+    </time>
+    <time from="2017-04-17T18:00:00" to="2017-04-17T21:00:00">
+      <symbol number="800" name="clear sky" var="01n"></symbol>
+      <precipitation></precipitation>
+      <windDirection deg="323" code="NW" name="Northwest"></windDirection>
+      <windSpeed mps="1.52" name=""></windSpeed>
+      <temperature unit="celsius" value="-5.55" min="-5.55" max="-5.55"></temperature>
+      <pressure unit="hPa" value="1014.87"></pressure>
+      <humidity value="84" unit="%"></humidity>
+      <clouds value="clear sky" all="0" unit="%"></clouds>
+    </time>
+    <time from="2017-04-17T21:00:00" to="2017-04-18T00:00:00">
+      <symbol number="800" name="clear sky" var="01n"></symbol>
+      <precipitation></precipitation>
+      <windDirection deg="275.002" code="W" name="West"></windDirection>
+      <windSpeed mps="1.28" name="Calm"></windSpeed>
+      <temperature unit="celsius" value="-7.13" min="-7.13" max="-7.13"></temperature>
+      <pressure unit="hPa" value="1016.71"></pressure>
+      <humidity value="77" unit="%"></humidity>
+      <clouds value="clear sky" all="0" unit="%"></clouds>
+    </time>
+    <time from="2017-04-18T00:00:00" to="2017-04-18T03:00:00">
+      <symbol number="800" name="clear sky" var="01d"></symbol>
+      <precipitation></precipitation>
+      <windDirection deg="264.001" code="W" name="West"></windDirection>
+      <windSpeed mps="1.79" name="Light breeze"></windSpeed>
+      <temperature unit="celsius" value="-5.83" min="-5.83" max="-5.83"></temperature>
+      <pressure unit="hPa" value="1018.4"></pressure>
+      <humidity value="82" unit="%"></humidity>
+      <clouds value="clear sky" all="0" unit="%"></clouds>
+    </time>
+    <time from="2017-04-18T03:00:00" to="2017-04-18T06:00:00">
+      <symbol number="800" name="clear sky" var="01d"></symbol>
+      <precipitation></precipitation>
+      <windDirection deg="318.502" code="NW" name="Northwest"></windDirection>
+      <windSpeed mps="2.21" name="Light breeze"></windSpeed>
+      <temperature unit="celsius" value="1.09" min="1.09" max="1.09"></temperature>
+      <pressure unit="hPa" value="1019.91"></pressure>
+      <humidity value="99" unit="%"></humidity>
+      <clouds value="clear sky" all="0" unit="%"></clouds>
+    </time>
+    <time from="2017-04-18T06:00:00" to="2017-04-18T09:00:00">
+      <symbol number="801" name="few clouds" var="02d"></symbol>
+      <precipitation></precipitation>
+      <windDirection deg="315.011" code="NW" name="Northwest"></windDirection>
+      <windSpeed mps="2.91" name="Light breeze"></windSpeed>
+      <temperature unit="celsius" value="2.8" min="2.8" max="2.8"></temperature>
+      <pressure unit="hPa" value="1020.64"></pressure>
+      <humidity value="100" unit="%"></humidity>
+      <clouds value="few clouds" all="24" unit="%"></clouds>
+    </time>
+    <time from="2017-04-18T09:00:00" to="2017-04-18T12:00:00">
+      <symbol number="802" name="scattered clouds" var="03d"></symbol>
+      <precipitation></precipitation>
+      <windDirection deg="329.501" code="NNW" name="North-northeast"></windDirection>
+      <windSpeed mps="2.78" name="Light breeze"></windSpeed>
+      <temperature unit="celsius" value="3.1" min="3.1" max="3.1"></temperature>
+      <pressure unit="hPa" value="1021.36"></pressure>
+      <humidity value="92" unit="%"></humidity>
+      <clouds value="scattered clouds" all="36" unit="%"></clouds>
+    </time>
+    <time from="2017-04-18T12:00:00" to="2017-04-18T15:00:00">
+      <symbol number="801" name="few clouds" var="02d"></symbol>
+      <precipitation></precipitation>
+      <windDirection deg="333.001" code="NNW" name="North-northeast"></windDirection>
+      <windSpeed mps="2.07" name="Light breeze"></windSpeed>
+      <temperature unit="celsius" value="1.84" min="1.84" max="1.84"></temperature>
+      <pressure unit="hPa" value="1021.98"></pressure>
+      <humidity value="87" unit="%"></humidity>
+      <clouds value="few clouds" all="12" unit="%"></clouds>
+    </time>
+    <time from="2017-04-18T15:00:00" to="2017-04-18T18:00:00">
+      <symbol number="802" name="scattered clouds" var="03n"></symbol>
+      <precipitation></precipitation>
+      <windDirection deg="10.5022" code="N" name="North"></windDirection>
+      <windSpeed mps="3.42" name="Gentle Breeze"></windSpeed>
+      <temperature unit="celsius" value="-1.75" min="-1.75" max="-1.75"></temperature>
+      <pressure unit="hPa" value="1023.37"></pressure>
+      <humidity value="82" unit="%"></humidity>
+      <clouds value="scattered clouds" all="44" unit="%"></clouds>
+    </time>
+  </forecast>
+</weatherdata>
